@@ -108,3 +108,12 @@ footer p {
         height: auto;
     }
 }
+@media screen and (max-width: 834.28px) {
+    .btn-product-selengkapnya {
+        position: static;
+    }
+
+    .card-product {
+        height: auto;
+    }
+}
